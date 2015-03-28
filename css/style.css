@@ -1,0 +1,39 @@
+hr {
+	border-style: solid;
+	border-width: 1px;
+	width: 100%;
+}
+.featured-work {
+	color: #BCBBBB;
+}
+.font {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	font-size: 60px;
+}
+.font1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+}
+.footer-title-fonts {
+	color: #747704;
+}
+.name {
+	margin-top: 66px;
+}
+.ulogo {
+	margin-top: 40px;
+}
+.multiple-borders {
+  box-shadow: 0px 0px 0px 7px black;
+}
+.multiple-borders1 {
+  box-shadow: 0px 0px 0px 7px blue;
+}
+.multiple-borders2 {
+  box-shadow: 0px 0px 0px 7px red;
+}
+.multiple-borders3 {
+  box-shadow: 0px 0px 0px 7px green;
+}
